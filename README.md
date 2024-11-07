@@ -2,7 +2,9 @@
 RNAseq analysis and notebook for Genomics and Bioinformatics 
 This is the project that we will be working on for a while 
 
-#Files I'm working with
+# Files I'm working with 
+WTB1_1.fq.gz, WTB1_2.fq.gz 
+
 
 
 # Trimming the raw data files 
