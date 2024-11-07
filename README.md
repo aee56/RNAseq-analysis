@@ -2,9 +2,13 @@
 RNAseq analysis and notebook for Genomics and Bioinformatics 
 This is the project that we will be working on for a while 
 
+# experimental design 
+
+
 # Files I'm working with 
 WTB1_1.fq.gz, WTB1_2.fq.gz 
 
+# Running fastQC on raw data 
 
 
 # Trimming the raw data files 
@@ -15,4 +19,5 @@ TRAILING:20 \
 SLIDINGWINDOW:4:15 \
 MINLEN:75
 
-here is the Trimmomatic script 
+Trimmomatic script can be found under "scripts" folder and is titled "RNAseq.SBATCH" \
+
