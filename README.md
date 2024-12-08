@@ -53,4 +53,4 @@ Trimmomatic script can be found under "scripts" folder and is titled "RNAseq.SBA
 
 # Results 
 
-Volcano plot is [here](aee56/RNAseq-analysis/R_volcano_plot_correct.pdf)
+Volcano plot is [here](R_volcano_plot_correct.pdf)
