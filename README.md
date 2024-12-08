@@ -39,7 +39,8 @@ Trimmomatic script can be found under "scripts" folder and is titled "RNAseq.SBA
 
 # Running fastQC on clean data 
 
- **Note: Delfina got something different from my results so I need to fix this 
+ Total sequences: 	19873183 \
+ Total bases: 2.6 Gbp
 
  # Downloading reference genome 
 
@@ -56,3 +57,9 @@ Trimmomatic script can be found under "scripts" folder and is titled "RNAseq.SBA
 Volcano plot is [here](R_volcano_plot_correct.pdf)
 
 Significant genes (13 of them) [here](signif_TH-vTH+.csv)
+
+PCA plot [here](TH-vTH+_pcaplot.png)
+
+# Interpretation of results
+
+TO DO 
