@@ -54,3 +54,5 @@ Trimmomatic script can be found under "scripts" folder and is titled "RNAseq.SBA
 # Results 
 
 Volcano plot is [here](R_volcano_plot_correct.pdf)
+
+Significant genes (13 of them) [here](signif_TH-vTH+.csv)
