@@ -50,3 +50,7 @@ Trimmomatic script can be found under "scripts" folder and is titled "RNAseq.SBA
 # Using Bowtie2
 
 ** Note: have not gotten to this yet due to Trimmomatic results not matching 
+
+# Results 
+
+Volcano plot is [here](aee56/RNAseq-analysis/R_volcano_plot_correct.pdf)
