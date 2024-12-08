@@ -56,7 +56,7 @@ The Bowtie2 SBATCH script can be found under [script](script/bowtie2.SBATCH)
 
 # Using HTseq 
 
-HTseq was used .
+HTseq was used to count the number of sequencing reads that align to specific genomic features based on the reference annotation file.
 
 The HTseq SBATCH script can be found under [script](script/HTseq.SBATCH)
 
