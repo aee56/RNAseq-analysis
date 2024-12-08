@@ -33,7 +33,7 @@ TRAILING:20 \
 SLIDINGWINDOW:4:15 \
 MINLEN:75
 
-Trimmomatic script can be found under "scripts" folder and is titled "RNAseq.SBATCH" 
+Trimmomatic script can be found under [script](script/trimmomatic.SBATCH)
 
  
 
