@@ -50,13 +50,15 @@ Trimmomatic script can be found under [script](script/trimmomatic.SBATCH)
 
 # Using Bowtie2
 
-** Note: have not gotten to this yet due to Trimmomatic results not matching 
+Bowtie2 was used to align short DNA sequencing reads to the reference genome. /
+
+The Bowtie2 SBATCH script can be found under [script](script/bowtie2.SBATCH)
 
 # Using HTseq 
 
-HTseq was used to align short DNA sequencing reads to the reference genome.
+HTseq was used .
 
-The HTseq SBATCH script can be found under [scripts](script/HTseq.SBATCH)
+The HTseq SBATCH script can be found under [script](script/HTseq.SBATCH)
 
 # Results 
 
