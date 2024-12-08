@@ -52,6 +52,12 @@ Trimmomatic script can be found under "scripts" folder and is titled "RNAseq.SBA
 
 ** Note: have not gotten to this yet due to Trimmomatic results not matching 
 
+# Using HTseq 
+
+HTseq was used to align short DNA sequencing reads to the reference genome.
+
+The HTseq SBATCH script can be found under [scripts](script/HTseq.SBATCH)
+
 # Results 
 
 Volcano plot is [here](R_volcano_plot_correct.pdf)
