@@ -16,6 +16,19 @@ thiamine \
 Thi-: grown in absence of
 thiamine
 
+These files are Thi+: 
+WTA1_1.fq.gz, WTA1_2.fq.gz, 
+WTB1_1.fq.gz, WTB1_2.fq.gz, 
+WTC1_1.fq.gz, WTC1_2.fq.gz 
+
+These files are Thi-: 
+WTA2_1.fq.gz, WTA2_2.fq.gz, 
+WTB2_1.fq.gz, WTB2_2.fq.gz, 
+WTC2_1.fq.gz, WTC2_2.fq.gz 
+
+A/B/C = biological replicates (isolates)
+
+_1 & _2 are read pairs 
 
 # Files I'm working with 
 WTB1_1.fq.gz, WTB1_2.fq.gz 
@@ -50,7 +63,7 @@ Trimmomatic script can be found under [script](script/trimmomatic.SBATCH)
 
 # Using Bowtie2
 
-Bowtie2 was used to align short DNA sequencing reads to the reference genome. /
+Bowtie2 was used to align short DNA sequencing reads to the reference genome. \
 
 The Bowtie2 SBATCH script can be found under [script](script/bowtie2.SBATCH)
 
@@ -72,4 +85,7 @@ PCA plot [here](TH-vTH+_pcaplot.png)
 
 # Interpretation of results
 
+For the PCA plot, along the pc2 axis, there are differences in gene expression based on presence/absence. 
+
+The volcano plot shows there are 13 statistically significant genes, which are listed above.  
 
