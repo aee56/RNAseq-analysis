@@ -66,8 +66,10 @@ Volcano plot is [here](R_volcano_plot_correct.pdf)
 
 Significant genes (13 of them) [here](signif_TH-vTH+.csv)
 
+Significant genes and their biological function [here](
+
 PCA plot [here](TH-vTH+_pcaplot.png)
 
 # Interpretation of results
 
-TO DO 
+
